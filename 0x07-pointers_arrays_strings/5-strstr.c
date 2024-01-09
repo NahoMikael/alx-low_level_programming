@@ -1,4 +1,5 @@
 #include <stddef.h>
+#include "string.h"
 #include "main.h" 
 /**
  * _strncmp - compares two strings within b bytes.
